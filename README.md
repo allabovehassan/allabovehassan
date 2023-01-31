@@ -1,10 +1,10 @@
 
 
-![logo](https://github.com/allabovehassan/allabovehassan/blob/main/Hassan_Khan_Banner_Github1.png)
+![logo](https://github.com/allabovehassan/allabovehassan/blob/main/Hassan_Khan_Banner_Github3.png)
 
 
 <h1 align="center">Hi 👋, I'm Hassan Khan</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
 <img align="center" alt="coding_img" width="100%" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
