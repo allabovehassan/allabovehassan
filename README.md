@@ -15,7 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/hassanargal" target="blank"><img src="https://img.shields.io/twitter/follow/hassanargal?logo=twitter&style=for-the-badge" alt="@hassanargal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://allabovehassan.github.io](https://allabovehassan.github.io)
+<!-- - 👨‍💻 All of my projects are available at [https://ovaisazmi.github.io/](https://ovaisazmi.github.io/)  -->
+
+- 👨‍💻 All of my projects are available at [https://allabovehassan.github.io/](https://allabovehassan.github.io/)
 
 - 💬 Ask me about **Node JS, Mongo DB, Java Script**
 
